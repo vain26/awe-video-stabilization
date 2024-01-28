@@ -2,6 +2,7 @@
 
 | Time | Journal | Name | Title | Code |
 |------|---------|------|------------------------------------------------------|-------|
+| 2020 | simple | use feature matching based on open-CV | ------------------------| [code](https://github.com/krutikabapat/Video-Stabilization-using-OpenCV) |
 | 2016 | ECCV | MeshFlow | MeshFlow: Minimum latency online video stabilization | unofficial [code](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization) / [code](https://github.com/how4rd/meshflow) |
 | 2019 | IEEE Trans | StabNet |  Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning |
 | 2020 | ACM Trans | DIFRINT | Deep iterative frame interpolation for full-frame video stabilization |
