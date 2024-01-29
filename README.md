@@ -1,5 +1,6 @@
 # awe-video-stabilization
 
+others awe-video-stabilization [list address](https://github.com/yaochih/awesome-video-stabilization)
 | Time | Journal | Name | Title | Code |
 |------|---------|------|------------------------------------------------------|-------|
 | 2020 | simple | use feature matching based on open-CV | ------------------------| [code](https://github.com/krutikabapat/Video-Stabilization-using-OpenCV) |
