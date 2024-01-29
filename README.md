@@ -12,3 +12,5 @@ List of other: awe-video-stabilization [list address](https://github.com/yaochih
 | 2021 | CVPR | Deep3D | 3D video stabilization with depth estimation by CNN-based optimization |
 | 2021 | ICCV | FuSta | Hybrid Neural Fusion for Full-frame Video Stabilization |
 | 2022 | IEEE Trans | DUT | DUT: Learning Video Stabilization by Simply Watching Unstable Videos |
+| 2023 | ICCV | ---- | Minimum Latency Deep Online Video Stabilization | official [code](https://github.com/liuzhen03/NNDVS) |
+| 2023 | ICCV | ---- | Fast-Full-frame-Video-Stabilization-with-Iterative-Optimization | official [code](https://github.com/zwyking/Fast-Stab) |
