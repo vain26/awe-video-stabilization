@@ -5,7 +5,7 @@ List of other: awe-video-stabilization [list address](https://github.com/yaochih
 |------|---------|------|------------------------------------------------------|-------|
 | 2020 |  | use feature matching based on open-CV | | [code](https://github.com/krutikabapat/Video-Stabilization-using-OpenCV) |
 | 2011 | CVPR |  | Auto-Directed Video Stabilization with Robust L1 Optimal Camera Paths | unofficial [code](https://github.com/ishank-juneja/L1-optimal-paths-Stabilization) |
-| 2016 | ECCV | MeshFlow | MeshFlow: Minimum latency online video stabilization | unofficial [yao-code](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization) / [code](https://github.com/how4rd/meshflow) |
+| 2016 | ECCV | MeshFlow | MeshFlow: Minimum latency online video stabilization | unofficial [yaolist-code](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization) / [code](https://github.com/how4rd/meshflow) |
 | 2019 | IEEE Trans | StabNet |  Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning | official [code](https://github.com/cxjyxxme/deep-online-video-stabilization-deploy) |
 | 2019 | arXiv | DeepMeshFlow | DeepMeshFlow: Content adaptive mesh deformation for robust image registration |      |
 | 2020 | ACM Trans | DIFRINT | Deep iterative frame interpolation for full-frame video stabilization |
